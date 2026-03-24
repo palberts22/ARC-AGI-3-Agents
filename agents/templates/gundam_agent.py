@@ -139,9 +139,10 @@ class GundamAgent(Agent):
         def _run():
             try:
                 from gundam import run_game
+                _budget = int(os.environ.get('ARC_BUDGET_PER_LEVEL', '15'))
                 run_game(
                     game_id=self.game_id,
-                    budget_per_level=50,
+                    budget_per_level=_budget,
                     max_turns_per_level=50,
                     verbose=True,
                     env_override=self._proxy,
