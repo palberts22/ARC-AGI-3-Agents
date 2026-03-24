@@ -1,0 +1,8 @@
+# ARC-AGI-3 submission dependencies
+arc-agi>=0.9.4
+arcengine>=0.9.0
+numpy>=1.26
+Pillow>=10.0
+scipy>=1.12
+requests>=2.31
+python-dotenv>=1.0

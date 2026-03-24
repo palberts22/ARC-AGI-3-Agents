@@ -13,6 +13,7 @@ from .templates.multimodal import MultiModalLLM
 from .templates.random_agent import Random
 from .templates.reasoning_agent import ReasoningAgent
 from .templates.smolagents import SmolCodingAgent, SmolVisionAgent
+from .templates.gundam_agent import GundamAgent
 
 load_dotenv()
 
@@ -48,4 +49,5 @@ __all__ = [
     "Playback",
     "AVAILABLE_AGENTS",
     "MultiModalLLM",
+    "GundamAgent",
 ]

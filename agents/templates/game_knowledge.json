@@ -1,0 +1,210 @@
+{
+  "ls20": {
+    "rules": [
+      "The player is a MULTI-PART sprite (multiple colors move together). Trust Eyes' dynamic detection over static rules.",
+      "Walkable corridors are lighter colors. Darker/distinct colors = WALLS. The exact colors change per level.",
+      "Some positions cause BIG world changes (100+ pixels) when you step on them. These are MODIFIERS \u2014 they change something about you.",
+      "When the HUD (bottom rows) changes, something about your STATUS changed. Pay attention to what colors appeared/disappeared.",
+      "If you get teleported back to start with full fuel, that's a FUEL EXHAUSTION RESET \u2014 not game over. You can keep playing.",
+      "STRATEGY: Explore the full map. Step on everything. When something big happens (HUD changes), remember that position and what changed.",
+      "This game has MORE mechanics than just walking to a goal. Observe carefully \u2014 positions that cause big changes are the key to progress.",
+      "MODIFIER COUNTING: Each modifier tile cycles ONE attribute per visit. You have 3 attributes. Track HUD changes per modifier: visit 1=change A, visit 2=change B, visit 3=back to start. Count carefully!",
+      "When you REACH the target and NOTHING happens, your attributes are WRONG. Go back to a modifier. Visit it a DIFFERENT number of times. Then try the target again.",
+      "SYSTEMATIC APPROACH: Visit modifier 1x\u2192try target. If fail, visit modifier 2x\u2192try target. If fail, visit modifier 3x. Each modifier may only affect one attribute."
+    ],
+    "hypothesis": "Complex navigation maze with modifiers. Simply reaching the goal cell isn't enough \u2014 you may need to collect items or match attributes first. Step on modifier cells (cause big HUD changes) to change your state, THEN navigate to the goal."
+  },
+  "ft09": {
+    "rules": [
+      "This is a CLICK PUZZLE, not a navigation game. You click on grid cells to change their colors.",
+      "Clicking one cell often changes MULTIPLE cells \u2014 observe carefully which cells change when you click.",
+      "The goal is to reach a specific color pattern. Look for constraint cells (cells with multiple colors or distinct patterns) \u2014 they show you the TARGET state.",
+      "Some levels have cells that interact with their NEIGHBORS. Pressing one button may toggle adjacent cells too.",
+      "STRATEGY: Click one button at a time. After each click, observe EXACTLY which cells changed color. Build a map of button\u2192effect relationships.",
+      "If stuck: the puzzle is solvable by finding the right COMBINATION of buttons. Each button is either pressed or not pressed \u2014 order doesn't matter within a level.",
+      "Direction actions may shift the entire grid view. Try them to see if they reveal more of the puzzle."
+    ],
+    "hypothesis": "Toggle/lights-out puzzle. Clicking cells changes their color and potentially neighbors. Goal is to match a target pattern shown by constraint cells. Systematic single-button testing reveals the effect map."
+  },
+  "vc33": {
+    "game_type": "track_switching_puzzle",
+    "mechanics": [
+      "Train moves automatically every step \u2014 this is REAL-TIME, not turn-based",
+      "Switches (ZGd tagged) toggle track connections when clicked",
+      "Click action is action 6 with x,y coordinates",
+      "Train dies if it reaches a dead end \u2014 you lose the level",
+      "Win condition (gug) checks track connections and colors",
+      "Switch positions change per level \u2014 must discover each time",
+      "L0 has 2 switches, L1+ has 4+ switches",
+      "Camera is 32x32 mapped to 64x64 display — multiply grid coords by 2 for click coords",
+      "Timer counts down from 50 — game over if timer reaches 0",
+      "Switches respond with 200+ pixel changes when clicked correctly",
+      "L0: switches at right side (60,24)/(60,32). L1: left side (0,24)/(0,44). L2: bottom (12-28,56). Positions change every level!"
+    ],
+    "strategy": [
+      "OBSERVE the train path and direction FIRST before clicking",
+      "Identify which switch controls which track segment",
+      "Toggle switches BEFORE the train reaches the junction",
+      "Rapid consecutive toggles (3x same switch) can reroute effectively",
+      "Think about WHERE the train needs to go, then WHEN to flip switches",
+      "Do NOT brute-force timing \u2014 reason about train position relative to switches"
+    ],
+    "pitfalls": [
+      "This is NOT a constraint satisfaction puzzle like FT09",
+      "Timing matters \u2014 the train moves every step regardless of your clicks",
+      "Wrong switch timing = train crash = level lost"
+    ]
+  },
+  "_genre_navigation": {
+    "rules": [
+      "NAVIGATION GAME: You move a character through a space to reach a goal.",
+      "4 directional actions = classic navigation. Map the space mentally: which directions are blocked (walls), which are open.",
+      "Build a MENTAL MAP as you explore. Mark: walls, open paths, special tiles (different colors/patterns), the goal.",
+      "If stepping on certain tiles causes HUD changes, those are MODIFIERS \u2014 they change your state. Track which modifier does what.",
+      "If reaching the goal does nothing, your STATE is wrong. You need specific modifiers first. Experiment systematically.",
+      "DEAD ENDS teach you the map. Getting stuck means you now know where NOT to go. Use that knowledge.",
+      "SHORTEST PATH: Once you know the map, plan the minimum-step path. Don't wander."
+    ],
+    "hypothesis": "Navigation game. Map the space, find the goal, discover what state changes are needed to complete each level."
+  },
+  "_genre_toggle": {
+    "rules": [
+      "TOGGLE/CLICK PUZZLE: Clicking cells changes colors. Often clicking one cell affects NEIGHBORS too (Lights Out variant).",
+      "PHASE 1 \u2014 DISCOVERY: Click each cell ONCE, alone. Record exactly which cells changed and how. This is your effect map.",
+      "PHASE 2 \u2014 PLANNING: Compare current state to goal state. Find the minimum set of clicks that transforms current\u2192goal.",
+      "KEY INSIGHT: In most toggle puzzles, ORDER DOESN'T MATTER \u2014 only WHICH cells you click. This makes it a subset problem.",
+      "If the same cell appears in multiple effects, clicking both CANCELS that cell (XOR logic). Use this to isolate changes.",
+      "Start from cells that ONLY affect themselves (independent cells). Then handle coupled cells.",
+      "If stuck: the solution is usually FEWER clicks than you think. Try the SMALLEST combinations first."
+    ],
+    "hypothesis": "Toggle puzzle with neighborhood effects. Discovery phase maps each button's effect, planning phase finds minimum click set."
+  },
+  "_genre_sequence": {
+    "rules": [
+      "SEQUENCE GAME: The correct ORDER of actions matters, not just WHICH actions.",
+      "Watch for TIMING cues \u2014 things that move automatically (trains, projectiles, timers). Your actions must be timed to these.",
+      "If the game has automatic movement, your job is to CONTROL that movement by switching states at the right time.",
+      "PATTERN RECOGNITION: Early levels teach you the timing. L0 might need 3 switches, L1 needs 13 \u2014 same mechanic, more junctions.",
+      "BUILD A TIMELINE: What happens at each step? When does the moving object reach each decision point? Plan your switches around those moments.",
+      "If you can't see the moving object, INFER its position from what changes between frames."
+    ],
+    "hypothesis": "Sequence/timing game. Actions must be performed in a specific order, possibly timed to automatic game events."
+  },
+  "_genre_sorting": {
+    "rules": [
+      "SORTING/ARRANGEMENT GAME: Objects need to be moved to specific target positions.",
+      "Identify: What are the MOVABLE objects? What are the TARGET positions? What are the OBSTACLES?",
+      "SOKOBAN RULE: If objects can only be pushed (not pulled), plan carefully \u2014 pushing into a corner is irreversible.",
+      "Work BACKWARDS from the goal: where does each object need to end up? What's the last move for each?",
+      "Solve objects FURTHEST from their targets first \u2014 they need the most space to maneuver.",
+      "If stuck: look for the ONE object that's blocking everything else. Move it first."
+    ],
+    "hypothesis": "Sorting/arrangement puzzle. Move objects to target positions, accounting for movement constraints and obstacles."
+  },
+  "_genre_gravity": {
+    "rules": [
+      "GRAVITY GAME: Objects fall downward when unsupported. Think Tetris, Connect Four, or columns.",
+      "Actions likely PLACE or DROP pieces into columns. Gravity pulls them to the lowest open position.",
+      "After each move, check what settled WHERE. Pieces may trigger chain reactions (matching colors, clearing rows).",
+      "STRATEGY: Think about WHERE pieces will land, not just where you place them. Stack deliberately.",
+      "If pieces match/clear: identify the match rule (3-in-a-row? same color? complete row?) from the first clear event."
+    ],
+    "hypothesis": "Gravity-based puzzle. Pieces fall and interact. Discover the clear/match condition, then stack strategically."
+  },
+  "_genre_rotation": {
+    "rules": [
+      "ROTATION PUZZLE: Actions rotate groups of cells or tiles. Think Rubik's cube face turns.",
+      "Each action rotates a specific GROUP of cells. Map which cells rotate together for each action.",
+      "KEY INSIGHT: Rotations are CYCLIC \u2014 applying the same rotation 4 times (90\u00b0 each) returns to start.",
+      "STRATEGY: Find commutators \u2014 if A then B then undo-A then undo-B moves one cell without disturbing others.",
+      "Work on getting ONE cell correct first, then preserve it while fixing others.",
+      "BACKWARDS from goal: what single rotation brings the MOST cells to their target positions?"
+    ],
+    "hypothesis": "Rotation puzzle. Actions rotate groups of cells. Discover rotation groups, find minimum rotation sequence to reach goal state."
+  },
+  "_genre_connection": {
+    "rules": [
+      "CONNECTION/FLOW PUZZLE: Connect points or route flows through a grid without crossing.",
+      "Identify: What needs to connect? (same-colored endpoints, source\u2192sink, pipe segments)",
+      "Paths likely cannot cross. Each cell is used by at most one path.",
+      "Start with the MOST CONSTRAINED connections \u2014 endpoints close to walls/corners have fewer possible paths.",
+      "If paths must fill the entire grid: work from corners and edges inward.",
+      "STRATEGY: Solve the longest/hardest connection first, short connections can route around it."
+    ],
+    "hypothesis": "Connection/flow puzzle. Route paths between endpoints without crossing. Solve most constrained connections first."
+  },
+  "_default": {
+    "rules": [
+      "First: observe. Try each available action ONCE and watch what changes. Build a mental map of action\u2192effect.",
+      "Track what stays constant between levels (walls, layout) vs what changes (player position, colors, targets).",
+      "If an action causes ZERO pixel change, it's either blocked (wall) or a no-op in current state.",
+      "Large pixel changes (100+ pixels) mean something significant happened \u2014 a state transition, pickup, or modifier.",
+      "Efficiency matters: the fewer actions to solve a level, the better your score. Plan before acting.",
+      "If you solved a level, remember HOW \u2014 later levels in the same game use similar mechanics with harder configurations.",
+      "After 5-10 exploratory actions, COMMIT to a hypothesis and act on it. Endless exploration wastes budget.",
+      "GENRE DETECTION: After 3-5 exploratory actions, classify the game: NAVIGATION (4 directional moves, walls), TOGGLE (clicking changes cell colors), SEQUENCE (timing-dependent), SORTING (arrange objects). Adopt genre-specific strategy immediately.",
+      "SOLVING A LEVEL POORLY beats NOT solving it at all. If stuck after 20+ actions, try ANYTHING different \u2014 random exploration, combining actions, revisiting old positions.",
+      "Each level is a NEW puzzle with same mechanics. What worked on L0 may need adaptation for L1. Don't blindly repeat \u2014 observe what CHANGED between levels.",
+      "BACKWARDS REASONING: Once you know the GOAL state, work backwards. What's the LAST move that reaches the goal? What state must exist BEFORE that last move? Chain backwards to build a plan from goal to current state.",
+      "EFFECT MAPPING: For each action, record EXACTLY what changed (which pixels/cells, what colors). Build a table: action\u2192effect. This table IS the game's rules. Use it to plan, not guess.",
+      "COMBINE WHAT YOU KNOW: If action A changes cells X,Y and action B changes cells Y,Z, then A+B changes X,Z (Y cancels). Use this algebraic thinking for toggle/flip puzzles.",
+      "COMPARE FRAMES: The initial frame vs current frame tells you what still needs to change. Focus on the DIFFERENCE, not the whole image."
+    ],
+    "hypothesis": "Unknown game. Observe systematically, discover mechanics through single-action testing, classify the genre, then plan efficient solutions using genre-specific strategy."
+  },
+  "_genre_matching": {
+    "rules": [
+      "MATCHING games require pairing identical or related elements. Click/select items that share a property (color, shape, pattern).",
+      "If clicking two non-matching items resets them, this is a MEMORY game \u2014 remember positions of items you revealed.",
+      "Efficiency key: minimize mismatches. Build a mental map of what you have seen before clicking.",
+      "Some matching games have CHAINS \u2014 matching 3+ in a row causes cascading effects. Observe what happens after a match.",
+      "If the board refills after matches, focus on creating matches near the bottom \u2014 gravity pulls new elements down.",
+      "Track which element types exist and their positions. Systematic scanning beats random clicking."
+    ],
+    "hypothesis": "Matching/memory game. Pair identical or related elements by clicking. Remember positions of revealed items to minimize mismatches."
+  },
+  "_genre_chase": {
+    "rules": [
+      "CHASE games have a moving target or pursuing enemy. You must reach a goal while avoiding obstacles.",
+      "Observe movement patterns \u2014 enemies often follow simple rules (chase directly, patrol fixed path, random).",
+      "TIMING matters: wait for the right moment to move past an obstacle. Count cycles.",
+      "If caught/hit, note what happens: instant reset, life loss, or position penalty. Adjust risk accordingly.",
+      "CORNERING: in grid-based chase, use walls to create distance. Never let yourself get trapped in a dead end.",
+      "PREDICTION: if the target moves, predict where it WILL be, not where it IS. Intercept, dont follow."
+    ],
+    "hypothesis": "Chase/pursuit game. Moving targets or enemies on a grid. Navigate to reach goals while avoiding threats. Timing and prediction matter."
+  },
+  "_genre_pattern_copy": {
+    "rules": [
+      "PATTERN games show a target pattern and ask you to replicate it by manipulating a canvas.",
+      "First: study the TARGET carefully. Count exact colors, positions, symmetries.",
+      "Compare TARGET to CURRENT state. The DIFFERENCE tells you what actions are needed.",
+      "If actions are ADDITIVE (paint one cell), work cell by cell from top-left.",
+      "If actions have SIDE EFFECTS (changing one cell affects others), find the ORDER that minimizes conflicts.",
+      "SYMMETRY CHECK: if the target is symmetric, your solution should be too. Use symmetry to halve the work."
+    ],
+    "hypothesis": "Pattern replication game. A target pattern is shown and you must reproduce it on a canvas by manipulating cells. Compare target vs current to guide actions."
+  },
+  "_genre_state_machine": {
+    "rules": [
+      "STATE MACHINE games have discrete states with transitions triggered by actions. The game IS the state diagram.",
+      "Map every state you visit and every transition you take. Build the graph explicitly.",
+      "Look for CYCLES: if you return to a previous state, you have found a loop. Can you break out of it?",
+      "GOAL STATE: there is a specific state (or set of states) that wins. Work backwards from the goal.",
+      "If actions have different effects in different states, the state determines the action meaning.",
+      "COUNT your steps. Some state machines have minimum-step solutions \u2014 brute exploration wastes budget."
+    ],
+    "hypothesis": "State machine puzzle. Discrete states with action-triggered transitions. Map the state graph, find cycles, and navigate to the goal state efficiently."
+  },
+  "_genre_sequence_puzzle": {
+    "rules": [
+      "This may be a TRACK-SWITCHING or RAIL puzzle. Objects move automatically; your actions switch which path segments connect.",
+      "If you have few actions (1-3 unique), they likely TOGGLE between states. Each action may flip a junction.",
+      "Difficulty often scales exponentially: early levels need 1-6 actions, later levels may need 30-90 TIMED actions.",
+      "Watch for colored lines/tracks in the frame. Your switches change which segments connect at junctions.",
+      "TIMING matters: the same switch may need to be flipped multiple times as an object passes different junctions.",
+      "STRATEGY: Try each action once and observe what changes. Identify which action controls which junction. Then plan the sequence."
+    ],
+    "hypothesis": "Sequence/timing puzzle. Objects move autonomously, your actions control switches or gates. Time your actions to guide objects to the goal."
+  }
+}

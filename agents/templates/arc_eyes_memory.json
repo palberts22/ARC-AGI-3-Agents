@@ -1,0 +1,4193 @@
+{
+  "version": 2,
+  "games_played": 299,
+  "total_transitions": 75,
+  "game_patterns": [
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "NAVIGATION",
+      "levels_solved": 1,
+      "total_actions": 14,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "NAVIGATION",
+      "levels_solved": 1,
+      "total_actions": 14,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 3,
+      "total_actions": 33,
+      "n_dir_actions": 1,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "NAVIGATION",
+      "levels_solved": 1,
+      "total_actions": 14,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 3,
+      "total_actions": 33,
+      "n_dir_actions": 1,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 3,
+      "total_actions": 35,
+      "n_dir_actions": 1,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 3,
+      "total_actions": 33,
+      "n_dir_actions": 1,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 167,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09-9ab2447a",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09-9ab2447a",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20-cb3b57cc",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 288,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33-9851e02b",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 2,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 2,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 1
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 1
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 1
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "hybrid",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 1
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 3,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-6x6-v0",
+      "game_type": "hybrid",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 3,
+      "n_click_actions": 1
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-8x8-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 3,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-5x5-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 3,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-6x6-v0",
+      "game_type": "navigation",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 3,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "MiniGrid-DoorKey-8x8-v0",
+      "game_type": "hybrid",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 3,
+      "n_click_actions": 1
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "NAVIGATION",
+      "levels_solved": 1,
+      "total_actions": 14,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "NAVIGATION",
+      "levels_solved": 3,
+      "total_actions": 33,
+      "n_dir_actions": 1,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "NAVIGATION",
+      "levels_solved": 3,
+      "total_actions": 33,
+      "n_dir_actions": 1,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 10,
+      "n_dir_actions": 0,
+      "n_click_actions": 8
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 8,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 6,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 15,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 25,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 2,
+      "total_actions": 44,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 49,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 7,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 304,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "NAVIGATION",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ls20",
+      "game_type": "NAVIGATION",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 4,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 5,
+      "n_click_actions": 9
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 0,
+      "total_actions": 0,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 17,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 37,
+      "n_dir_actions": 0,
+      "n_click_actions": 3
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 3,
+      "n_dir_actions": 0,
+      "n_click_actions": 5
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 1,
+      "total_actions": 3,
+      "n_dir_actions": 0,
+      "n_click_actions": 5
+    },
+    {
+      "game_id": "vc33",
+      "game_type": "SPECIALIZED",
+      "levels_solved": 7,
+      "total_actions": 179,
+      "n_dir_actions": 0,
+      "n_click_actions": 0
+    },
+    {
+      "game_id": "ft09",
+      "game_type": "CLICK_SEQUENCE",
+      "levels_solved": 6,
+      "total_actions": 75,
+      "n_dir_actions": 5,
+      "n_click_actions": 23
+    }
+  ],
+  "strategy_results": [
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": ""
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": true,
+      "actions": 4,
+      "level": 0,
+      "game_id": ""
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": ""
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": ""
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": true,
+      "actions": 500,
+      "level": 1,
+      "game_id": ""
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": true,
+      "actions": 500,
+      "level": 0,
+      "game_id": ""
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": true,
+      "actions": 500,
+      "level": 0,
+      "game_id": ""
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": true,
+      "actions": 500,
+      "level": 0,
+      "game_id": ""
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "click_puzzle",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "unknown",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-5x5-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-6x6-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "reasoning",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "perceptual",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "MiniGrid-DoorKey-8x8-v0"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": true,
+      "actions": 3,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": true,
+      "actions": 7,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 2,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "navigation",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 3,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 0,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "explore",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "click",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": "vc33"
+    },
+    {
+      "game_type": "hybrid",
+      "strategy": "navigation",
+      "solved": false,
+      "actions": 0,
+      "level": 1,
+      "game_id": "vc33"
+    }
+  ],
+  "game_guides": [
+    {
+      "genre": "navigation_puzzle",
+      "mechanic": "Move a player through a maze to collect items and reach goals. Some doors require specific keys. Order of collection matters. A* pathfinding with resource dependency tracking.",
+      "visual_cues": [
+        "small player sprite",
+        "directional movement",
+        "walls/obstacles",
+        "collectible items",
+        "doors that block progress"
+      ],
+      "strategies": [
+        "pathfinding",
+        "resource_ordering",
+        "key_door_dependency",
+        "greedy_nearest_target"
+      ],
+      "has_hidden_state": false
+    },
+    {
+      "genre": "toggle_puzzle",
+      "mechanic": "Clicking a cell toggles it AND its neighbors. Same visual state can have different hidden state. Solution requires systematic ordering, not random clicking.",
+      "visual_cues": [
+        "grid of colored cells",
+        "click-only actions",
+        "clicking one cell changes multiple cells",
+        "neighbor effects visible on click"
+      ],
+      "strategies": [
+        "systematic_ordering",
+        "constraint_elimination",
+        "track_hidden_state"
+      ],
+      "has_hidden_state": true
+    },
+    {
+      "genre": "rail_slider",
+      "mechanic": "Each click position controls a rail/slider that extends or retracts. Complex hidden state \u2014 same visual frame can correspond to different game states. Frame shape may change during gameplay. Build state graph through exploration.",
+      "visual_cues": [
+        "colored regions that shift/slide on click",
+        "click-only actions",
+        "clicking changes large regions of pixels",
+        "frame may change channel count"
+      ],
+      "strategies": [
+        "state_graph_exploration",
+        "transition_graph_with_glasses",
+        "systematic_click_probing"
+      ],
+      "has_hidden_state": true
+    }
+  ],
+  "meta": {
+    "total_frames_seen": 76,
+    "levels_played_total": 1438
+  }
+}

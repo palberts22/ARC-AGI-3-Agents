@@ -1,0 +1,204 @@
+{
+  "solved": [
+    {
+      "fingerprint": {
+        "game_id": "vc33",
+        "level": 0,
+        "n_colors": 7,
+        "frame_shape": [
+          64,
+          64
+        ],
+        "n_actions": 1,
+        "n_directional": 1,
+        "n_click": 0,
+        "action_type": "directional",
+        "n_sprites": 8,
+        "sprite_layout": "grid",
+        "has_progress_bar": false,
+        "symmetry": "none",
+        "is_conservative": true,
+        "n_effective_actions": 3,
+        "has_inverse_pairs": false
+      },
+      "strategy_name": "wall_following",
+      "n_actions": 3,
+      "hypotheses_used": [],
+      "time_to_solve": 9.032482147216797,
+      "timestamp": 1773359597.4522882
+    },
+    {
+      "fingerprint": {
+        "game_id": "vc33",
+        "level": 1,
+        "n_colors": 7,
+        "frame_shape": [
+          64,
+          64
+        ],
+        "n_actions": 1,
+        "n_directional": 1,
+        "n_click": 0,
+        "action_type": "directional",
+        "n_sprites": 9,
+        "sprite_layout": "grid",
+        "has_progress_bar": false,
+        "symmetry": "horizontal",
+        "is_conservative": true,
+        "n_effective_actions": 6,
+        "has_inverse_pairs": false
+      },
+      "strategy_name": "wall_following",
+      "n_actions": 1,
+      "hypotheses_used": [],
+      "time_to_solve": 9.901808023452759,
+      "timestamp": 1773359607.3565617
+    },
+    {
+      "fingerprint": {
+        "game_id": "vc33",
+        "level": 2,
+        "n_colors": 7,
+        "frame_shape": [
+          64,
+          64
+        ],
+        "n_actions": 1,
+        "n_directional": 1,
+        "n_click": 0,
+        "action_type": "directional",
+        "n_sprites": 11,
+        "sprite_layout": "grid",
+        "has_progress_bar": false,
+        "symmetry": "none",
+        "is_conservative": true,
+        "n_effective_actions": 5,
+        "has_inverse_pairs": false
+      },
+      "strategy_name": "wall_following",
+      "n_actions": 1,
+      "hypotheses_used": [],
+      "time_to_solve": 9.599730730056763,
+      "timestamp": 1773359616.9574077
+    },
+    {
+      "fingerprint": {
+        "game_id": "vc33",
+        "level": 3,
+        "n_colors": 7,
+        "frame_shape": [
+          64,
+          64
+        ],
+        "n_actions": 1,
+        "n_directional": 1,
+        "n_click": 0,
+        "action_type": "directional",
+        "n_sprites": 12,
+        "sprite_layout": "grid",
+        "has_progress_bar": false,
+        "symmetry": "none",
+        "is_conservative": true,
+        "n_effective_actions": 5,
+        "has_inverse_pairs": false
+      },
+      "strategy_name": "wall_following",
+      "n_actions": 1,
+      "hypotheses_used": [],
+      "time_to_solve": 9.876718044281006,
+      "timestamp": 1773359626.8358614
+    },
+    {
+      "fingerprint": {
+        "game_id": "vc33",
+        "level": 4,
+        "n_colors": 7,
+        "frame_shape": [
+          64,
+          64
+        ],
+        "n_actions": 1,
+        "n_directional": 1,
+        "n_click": 0,
+        "action_type": "directional",
+        "n_sprites": 12,
+        "sprite_layout": "grid",
+        "has_progress_bar": false,
+        "symmetry": "none",
+        "is_conservative": true,
+        "n_effective_actions": 5,
+        "has_inverse_pairs": false
+      },
+      "strategy_name": "wall_following",
+      "n_actions": 1,
+      "hypotheses_used": [],
+      "time_to_solve": 9.704707145690918,
+      "timestamp": 1773359636.542471
+    },
+    {
+      "fingerprint": {
+        "game_id": "vc33",
+        "level": 5,
+        "n_colors": 7,
+        "frame_shape": [
+          64,
+          64
+        ],
+        "n_actions": 1,
+        "n_directional": 1,
+        "n_click": 0,
+        "action_type": "directional",
+        "n_sprites": 12,
+        "sprite_layout": "grid",
+        "has_progress_bar": false,
+        "symmetry": "none",
+        "is_conservative": true,
+        "n_effective_actions": 5,
+        "has_inverse_pairs": false
+      },
+      "strategy_name": "wall_following",
+      "n_actions": 1,
+      "hypotheses_used": [],
+      "time_to_solve": 9.419804096221924,
+      "timestamp": 1773359645.9637604
+    },
+    {
+      "fingerprint": {
+        "game_id": "vc33",
+        "level": 6,
+        "n_colors": 7,
+        "frame_shape": [
+          64,
+          64
+        ],
+        "n_actions": 1,
+        "n_directional": 1,
+        "n_click": 0,
+        "action_type": "directional",
+        "n_sprites": 12,
+        "sprite_layout": "grid",
+        "has_progress_bar": false,
+        "symmetry": "none",
+        "is_conservative": true,
+        "n_effective_actions": 5,
+        "has_inverse_pairs": false
+      },
+      "strategy_name": "wall_following",
+      "n_actions": 1,
+      "hypotheses_used": [],
+      "time_to_solve": 9.542463779449463,
+      "timestamp": 1773359655.5091028
+    }
+  ],
+  "strategy_wins": {
+    "wall_following": 7
+  },
+  "strategy_fails": {
+    "wall_following": 2
+  },
+  "game_type_strategies": {
+    "directional": [
+      "wall_following"
+    ]
+  }
+}
